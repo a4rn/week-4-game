@@ -1,0 +1,83 @@
+body {
+   background-image: url("../images/background_img.jpg");
+}
+
+header {
+	width: 320px;
+	height: 100px;
+	text-align: center;
+	display: inline-block;
+	background-color: #D67F00;
+	color: white;
+	margin: 0;
+}
+h1 {
+	margin: 0;
+	font-size: x-large;
+	line-height: 100px;
+}
+
+#main-para {
+	padding: 5px;
+	width: 480px;
+	height: 450px;
+	background-color: #F4E7C1;
+	color: green;
+	margin-top: 10px;
+
+}
+
+.scores {
+	font-size: x-large;
+	overflow: auto;
+
+}
+
+#randomno {
+	width: 200px;
+	height: 100px;
+	background-color: #33B877;
+	margin: 10px 10px 8px 0;
+	display: inline-block;
+	
+}
+
+#tally {
+	width: 100px;
+	height: 100px;
+	background-color: #3BF4F6;
+	display: inline-block;
+	margin-bottom: 10px;
+	overflow: auto;
+	line-height: 2;
+}
+
+.clear{
+	clear: both;
+}
+
+.crystals {
+   float: left;
+   border: 2px solid transparent;
+
+ }
+
+ 
+h5 {
+	margin: 0;
+	width: 200px;
+	background-color: #198B80;
+	color: white;
+	height: 30px;
+	clear: both;
+	line-height: 30px;
+	
+}
+
+#myscore {
+	width: 200px;
+	height: 100px;
+	background-color: #198B80;
+	margin-top: 10px;
+	color: white;
+}
